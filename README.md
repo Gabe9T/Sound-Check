@@ -35,7 +35,7 @@ Feel free to explore these functionalities to enhance your experience with Sound
 3. Open Bash and type: `git clone https://github.com/kimmykokonut/sound-check.git`
 4. It should appear on your Desktop.
 5. Go into the project directory in Bash and type `$ code .` to open in VS Code. If you do not have VS Code Editor, you may download it [here](https://code.visualstudio.com/).
-6. Once in VS Code, open the terminal there and type `$ npm install` (to install the packages and dependencies).
+6. Once in VS Code, open the terminal there and type `$ npm install` (to install the packages and dependencies)
 7. Everything should be running now.
 8. To launch the dev server, run `$ npm run dev` then `$ o + enter` or click the link in the terminal.
 
