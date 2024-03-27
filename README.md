@@ -1,5 +1,7 @@
 # Sound Check
 
+![SoundCheck](./src/assets/SoundCheck.jpg)
+
 See our application live [here](https://sound-check.netlify.app/)
 
 ## By Gabriel Tucker, Kim Robinson, Noah Kise, Monica Barboza, Zuri Gallegos
